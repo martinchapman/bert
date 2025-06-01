@@ -1,0 +1,12 @@
+{
+    "model_name": "google-bert/bert-base-uncased",
+    "train_dataset": "nlptakehome/data/train.json",
+    "prediction_dataset": "nlptakehome/data/predict.json",
+    "max_length": 128,
+    "learning_rate": 3e-5,
+    "epochs": 3,
+    "weight_decay":0.01,
+    "metric_for_best_model": "f1",
+    "threshold": 0.5,
+    "f1_average": "weighted"
+}

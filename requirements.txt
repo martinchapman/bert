@@ -1,0 +1,10 @@
+black[jupyter]
+jupyter
+ipywidgets
+transformers
+datasets
+torch
+scikit-learn
+accelerate>=0.26.0
+evaluate
+numpy

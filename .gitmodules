@@ -1,0 +1,3 @@
+[submodule "nlptakehome"]
+	path = examples/biomarker-classification/nlptakehome
+	url = git@github.com:londonaicentre/nlptakehome.git

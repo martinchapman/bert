@@ -1,0 +1,190 @@
+[
+  {
+    "text": "BRCA1/2 Genetic Test Results: Analysis of BRCA1 gene showed a pathogenic variant c.4327C>T (p.Arg1443*). This variant is known to truncate the BRCA1 protein and is classified as clinically significant. No alterations were detected in the BRCA2 gene. This finding indicates an increased lifetime risk for breast and ovarian cancers. Prompt genetic counseling is recommended to discuss surveillance strategies, risk-reducing options, and potential implications for family members. It is important to note that this result indicates an increased risk, not a certainty of developing cancer.",
+    "predicted_labels": [
+      "BOTH_NEGATIVE",
+      "BRCA1_PATH",
+      "BRCA2_PATH",
+      "BRCA2_VUS"
+    ]
+  },
+  {
+    "text": "BRCA Genetic Screening Report: No pathogenic variants or variants of uncertain significance were identified in either BRCA1 or BRCA2 genes. This result suggests the absence of BRCA-related hereditary breast and ovarian cancer syndrome. However, this does not eliminate all genetic cancer risks or the possibility of sporadic cancer. The patient should maintain age-appropriate cancer screening and report any changes in family cancer history. Consider comprehensive genetic testing if there is a strong family history of cancer.",
+    "predicted_labels": [
+      "BOTH_NEGATIVE",
+      "BRCA1_PATH",
+      "BRCA2_PATH",
+      "BRCA2_VUS"
+    ]
+  },
+  {
+    "text": "BRCA1/2 Analysis Summary: BRCA1 testing revealed no pathogenic variants. BRCA2 testing identified a variant of uncertain significance (VUS) c.9104A>G (p.Tyr3035Cys). The clinical significance of this variant is currently unknown. Management decisions should not be based solely on this finding. Recommend genetic counseling to discuss implications, including the possibility of variant reclassification as more evidence accumulates. Cancer risk assessment should be based on personal and family history rather than this VUS result.",
+    "predicted_labels": [
+      "BOTH_NEGATIVE",
+      "BRCA1_PATH",
+      "BRCA1_VUS",
+      "BRCA2_PATH",
+      "BRCA2_VUS"
+    ]
+  },
+  {
+    "text": "Genetic Test Results for BRCA1/BRCA2: A pathogenic variant was identified in the BRCA2 gene (c.8537_8538delAG, p.Glu2846Glyfs*22). This mutation is associated with increased lifetime risk of breast, ovarian, pancreatic, and prostate cancers. No alterations were detected in BRCA1. Urgent genetic counseling is recommended to discuss enhanced cancer surveillance protocols, risk-reducing surgical options, and implications for blood relatives. Remember that this result indicates increased risk but does not guarantee cancer development.",
+    "predicted_labels": [
+      "BOTH_NEGATIVE",
+      "BRCA1_PATH",
+      "BRCA1_VUS",
+      "BRCA2_PATH",
+      "BRCA2_VUS"
+    ]
+  },
+  {
+    "text": "BRCA1/2 Sequencing Report: Variant of uncertain significance (VUS) detected in BRCA1 gene (c.5453A>G, p.His1818Arg). The clinical significance of this variant is currently unknown. No pathogenic variants were identified in BRCA2. Management decisions should not be based on this VUS. Cancer risk assessment should follow standard guidelines based on personal and family history. Periodic reassessment of this variant is recommended as its classification may change with new evidence.",
+    "predicted_labels": [
+      "BOTH_NEGATIVE",
+      "BRCA1_PATH",
+      "BRCA2_PATH",
+      "BRCA2_VUS"
+    ]
+  },
+  {
+    "text": "BRCA Mutation Analysis Results:\n\nBRCA1: Pathogenic variant detected\n\u2022 c.5123C>A (p.Ala1708Glu)\n\nBRCA2: No pathogenic variants identified\n\nClinical Implication: High risk for hereditary breast and ovarian cancer syndrome\n\nRecommended Actions:\n1) Schedule comprehensive genetic counseling\n2) Implement enhanced cancer surveillance\n3) Discuss risk-reducing surgical options\n4) Consider chemoprevention strategies\n5) Initiate cascade testing in family members",
+    "predicted_labels": [
+      "BOTH_NEGATIVE",
+      "BRCA1_PATH",
+      "BRCA1_VUS",
+      "BRCA2_PATH",
+      "BRCA2_VUS"
+    ]
+  },
+  {
+    "text": "BRCA Genetic Test Outcome: The sample provided was insufficient for analysis. Laboratory attempted DNA extraction twice, but yields were below the threshold required for reliable sequencing. Please arrange for a new blood sample collection (10ml in EDTA tube). Once received, the analysis will be prioritized with an expected turnaround time of 2-3 weeks. We apologize for the inconvenience. Contact genetic counselor with any questions regarding sample requirements.",
+    "predicted_labels": [
+      "BOTH_NEGATIVE",
+      "BRCA1_PATH",
+      "BRCA2_PATH",
+      "BRCA2_VUS"
+    ]
+  },
+  {
+    "text": "BRCA1/2 Genomic Analysis Summary:\n\n\u25ba BRCA1: No pathogenic variants\n\u25ba BRCA2: No pathogenic variants\n\nInterpretation: No evidence of hereditary breast and ovarian cancer syndrome associated with BRCA1/2 mutations.\n\nRecommendations:\n\u2022 Maintain routine cancer screening based on age and risk factors\n\u2022 Report significant changes in family cancer history\n\u2022 Consider expanded panel testing if strong family history persists",
+    "predicted_labels": [
+      "BOTH_NEGATIVE",
+      "BRCA1_PATH",
+      "BRCA2_PATH",
+      "BRCA2_VUS"
+    ]
+  },
+  {
+    "text": "BRCA Gene Test Results:\n\nBRCA1: Variant of uncertain significance (VUS)\n\u25aa c.4315C>T (p.Leu1439Phe)\n\nBRCA2: Variant of uncertain significance (VUS)\n\u25aa c.7469T>C (p.Ile2490Thr)\n\nClinical Relevance: Uncertain for both variants\n\nGuidance:\n1) Genetic counseling to explain implications\n2) Cancer risk assessment based on family/personal history\n3) Periodic variant reclassification checks\n4) Standard screening protocols recommended",
+    "predicted_labels": [
+      "BOTH_NEGATIVE",
+      "BRCA1_PATH",
+      "BRCA2_PATH",
+      "BRCA2_VUS"
+    ]
+  },
+  {
+    "text": "BRCA Screening Status: Analysis Halted. The test was terminated due to detection of sample contamination during quality control procedures. The contamination affects the reliability of any potential results. A new sample is required for complete analysis. Please schedule the patient for a repeat blood draw at their earliest convenience. We will expedite the analysis once the new sample is received to minimize further delays.",
+    "predicted_labels": [
+      "BOTH_NEGATIVE",
+      "BRCA1_PATH",
+      "BRCA2_PATH",
+      "BRCA2_VUS"
+    ]
+  },
+  {
+    "text": "BRCA1/2 genetic testing revealed a pathogenic variant in the BRCA1 gene (c.3756_3759delGTCT, p.Ser1253Argfs*10). This frameshift mutation leads to premature protein truncation and is associated with significantly increased risks for breast and ovarian cancers. No pathogenic variants were detected in the BRCA2 gene. The patient should be referred for comprehensive genetic counseling to discuss personalized risk management, surveillance protocols, and potential preventive measures. Family members should be offered genetic testing for this mutation.",
+    "predicted_labels": [
+      "BOTH_NEGATIVE",
+      "BRCA1_PATH",
+      "BRCA2_PATH",
+      "BRCA2_VUS"
+    ]
+  },
+  {
+    "text": "BRCA Gene Analysis Report: BRCA1 and BRCA2 negative for known pathogenic variants and variants of uncertain significance. This result indicates no evidence of BRCA-associated hereditary breast and ovarian cancer syndrome. However, this does not eliminate all genetic cancer risks or the possibility of sporadic cancer. The patient should continue with general population screening guidelines and report any changes in personal or family cancer history to their healthcare provider.",
+    "predicted_labels": [
+      "BOTH_NEGATIVE",
+      "BRCA1_PATH",
+      "BRCA2_PATH",
+      "BRCA2_VUS"
+    ]
+  },
+  {
+    "text": "BRCA1/2 Mutation Analysis Overview:\n\nBRCA1: No alterations detected\nBRCA2: Pathogenic variant identified\n\u25aa c.7480C>T (p.Arg2494*)\n\nClinical Interpretation: High risk for hereditary breast and ovarian cancer syndrome\n\nManagement Recommendations:\n1. Expedite genetic counseling referral\n2. Implement enhanced cancer surveillance\n3. Consider risk-reducing surgical options\n4. Discuss targeted therapy possibilities\n5. Recommend predictive testing for relatives",
+    "predicted_labels": [
+      "BOTH_NEGATIVE",
+      "BRCA1_PATH",
+      "BRCA1_VUS",
+      "BRCA2_PATH",
+      "BRCA2_VUS"
+    ]
+  },
+  {
+    "text": "BRCA Test Results: Testing identified a variant of uncertain significance (VUS) in the BRCA2 gene (c.8351G>A, p.Arg2784Gln). No pathogenic variants were detected in BRCA1. The clinical significance of this BRCA2 variant is currently unknown. Management decisions should not be based solely on this finding. We recommend genetic counseling to discuss the implications, standard cancer screening based on personal and family history, and periodic checks for reclassification of this variant.",
+    "predicted_labels": [
+      "BOTH_NEGATIVE",
+      "BRCA1_PATH",
+      "BRCA1_VUS",
+      "BRCA2_PATH",
+      "BRCA2_VUS"
+    ]
+  },
+  {
+    "text": "BRCA Sequencing Outcome: Both BRCA1 and BRCA2 were analyzed with no pathogenic variants or variants of uncertain significance detected. This result suggests the patient does not have an increased risk of hereditary breast and ovarian cancer syndrome associated with BRCA1/2 mutations. Standard cancer screening guidelines should be followed. If there is a strong family history of cancer, additional genetic testing for other cancer predisposition genes may be considered.",
+    "predicted_labels": [
+      "BOTH_NEGATIVE",
+      "BRCA1_PATH",
+      "BRCA2_PATH",
+      "BRCA2_VUS"
+    ]
+  },
+  {
+    "text": "BRCA1/2 Analysis Result: Inconclusive test due to technical issues. During sequencing, we encountered significant interference in critical regions of both BRCA1 and BRCA2 genes. This prevents reliable variant calling and interpretation. We recommend repeating the test with a fresh sample using our updated assay protocol. Please collect a new blood sample and mark it for priority processing. Our genetic counselor will contact the patient to explain the situation and arrange for resampling.",
+    "predicted_labels": [
+      "BOTH_NEGATIVE",
+      "BRCA1_PATH",
+      "BRCA1_VUS",
+      "BRCA2_PATH",
+      "BRCA2_VUS"
+    ]
+  },
+  {
+    "text": "BRCA Mutation Test Report:\n\nBRCA1: Pathogenic variant detected\n\u2022 c.5266dupC (p.Gln1756Profs*74)\n\nBRCA2: No pathogenic variants\n\nRisk Assessment: Significantly elevated lifetime risk for breast and ovarian cancers\n\nUrgent Action Items:\n1) Immediate genetic counseling referral\n2) Discuss intensive cancer surveillance options\n3) Evaluate risk-reducing surgical interventions\n4) Consider chemoprevention strategies\n5) Coordinate cascade testing for relatives",
+    "predicted_labels": [
+      "BOTH_NEGATIVE",
+      "BRCA1_PATH",
+      "BRCA1_VUS",
+      "BRCA2_PATH",
+      "BRCA2_VUS"
+    ]
+  },
+  {
+    "text": "BRCA Genetic Screening Results: Analysis of BRCA1 gene identified a variant of uncertain significance (VUS) c.5054C>T (p.Thr1685Ile). No pathogenic variants were detected in BRCA2. The clinical significance of the BRCA1 VUS is currently unknown. Risk assessment and management should be based on personal and family history rather than this finding. Recommend genetic counseling to discuss implications and the possibility of reclassification as more data becomes available.",
+    "predicted_labels": [
+      "BOTH_NEGATIVE",
+      "BRCA1_PATH",
+      "BRCA2_PATH",
+      "BRCA2_VUS"
+    ]
+  },
+  {
+    "text": "BRCA1/2 Genomic Analysis Report:\n\nBRCA1: Wild-type (no mutations detected)\nBRCA2: Pathogenic variant identified\n\u25aa c.5946delT (p.Ser1982Argfs*22)\n\nClinical Relevance: Elevated lifetime risk for breast, ovarian, pancreatic, and prostate (males) cancers\n\nRecommendations:\n\u2713 Comprehensive genetic counseling\n\u2713 Enhanced cancer surveillance protocol\n\u2713 Discuss risk-reducing surgical options\n\u2713 Consider targeted therapy possibilities\n\u2713 Recommend predictive testing for blood relatives",
+    "predicted_labels": [
+      "BOTH_NEGATIVE",
+      "BRCA1_PATH",
+      "BRCA1_VUS",
+      "BRCA2_PATH",
+      "BRCA2_VUS"
+    ]
+  },
+  {
+    "text": "BRCA Gene Test Status: Partial Results Available. Complete BRCA1 sequencing was successful and showed no pathogenic variants. However, BRCA2 analysis failed for exons 12-15 due to poor amplification. Without complete BRCA2 results, we cannot provide a comprehensive risk assessment. Recommend repeat testing with focus on the problematic BRCA2 regions. Patient should be informed of this technical limitation. Genetic counseling appointment advised to discuss implications and next steps.",
+    "predicted_labels": [
+      "BOTH_NEGATIVE",
+      "BRCA1_PATH",
+      "BRCA2_PATH",
+      "BRCA2_VUS"
+    ]
+  }
+]
